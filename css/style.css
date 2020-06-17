@@ -173,7 +173,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: linear-gradient(to right bottom, var(--c1),var(--c2));
+  background: linear-gradient(to right bottom, #fff,var(--c5));
   padding: 20px 0;
   height: 72px;
   transition: all 0.5s;
@@ -823,7 +823,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #call-to-action {
-  background: linear-gradient(rgba(0, 0, 0, 0.877),rgba(49, 240, 224, 0.658)), url(../img/art.jpg) fixed top center;
+  background: linear-gradient(rgba(0, 0, 0, 0.877),rgba(209, 178, 1, 0.658)), url(../img/art.jpg) fixed top center;
   background-size: cover;
   padding: 60px 0;
 }
